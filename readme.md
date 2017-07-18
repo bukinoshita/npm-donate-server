@@ -2,6 +2,8 @@
 
 > npm donate server to handle donations
 
+<br/>
+
 [![Deploy to now](https://deploy.now.sh/static/button.svg)](https://deploy.now.sh/?repo=https://github.com/bukinoshita/npm-donate-server&env=STRIPE_KEY)
 
 
